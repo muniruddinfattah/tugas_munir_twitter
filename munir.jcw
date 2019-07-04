@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>munir</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>munir.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tugas\tugas.jcp</path>
+		</project>
+		<project>
+			<path>tugas_munir\tugas_munir.jcp</path>
+		</project>
+	</projects>
+</workspace>
